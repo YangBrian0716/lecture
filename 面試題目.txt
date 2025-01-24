@@ -1,0 +1,22 @@
+面試QA 主要是以專案內容為主
+1. 針對security，權限設定用什麼@
+2. @preauth跟@auth 的Bean權限差異
+3. 如何處理 exception ？
+4. MVC各自負責什麼，請用程式碼舉例
+5. 有無開發行動裝置經驗
+6. Git 版控
+7. 你的spring boot技術幾分，你的vue3技術打幾分
+8. 不寫交易控制有什麼問題
+9. status 404 是哪裡有問題
+10. Autowired注入時，如果要注入同樣的Service不一樣方法，該如何設定？
+11. 為什麼要用Service介面+impl
+12. @Transactional 是否所有拋錯都會Rollback 哪些Exception會rollback，哪些不會
+13. Hibernate和Mybatis差異比較
+14. pinia 會解構什麼? pinia 響應式會消除什麼
+15. v-if v-show差異以及使用時機 效能差異、隱私差異
+16. 多筆不同情境的交易控制如何串一起
+17. Restcontroller跟controller差別
+18. 介面繼承 跟 子類 繼承 父類 差異
+19. 被問對sa跟pg認識，是否有職涯規劃
+20. requestparameter、pathvariable、requestbody差異
+21. updateuser的部分是不是沒有做交易控制 
